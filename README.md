@@ -9,9 +9,6 @@ A simple e-commerce app built with Flutter and Provider.
 - ❤️ Wishlist Support
 - 📲 Responsive UI
 
-## 📸 Demo
-
-![Demo GIF](https://drive.google.com/file/d/1FNGNWzWCaAo6zmKA_br5A8yw99vzyooX/view?usp=sharing)
 
 ## 🛠️ Installation
 
